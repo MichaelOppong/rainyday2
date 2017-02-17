@@ -1,10 +1,12 @@
-var umbrella ="rainy"
+// var umbrella ="rainy"
 
-$("button").click(function(){
-    if($("input").val()===umbrella) {
-   $("h3").html("Don't forget to bring an umbrella");
+// $("button").click(function(){
+//     if($("input").val()===umbrella) {
+//    $("h3").html("Don't forget to bring an umbrella");
 
-  } else
-   $("h3").html("There's no need for an umbrella today. Please, check agin tomorrow.");
+//   } else
+//    $("h3").html("There's no need for an umbrella today. Please, check agin tomorrow.");
 
-});
+// });
+
+var _0xe271=["\x72\x61\x69\x6E\x79","\x76\x61\x6C","\x69\x6E\x70\x75\x74","\x44\x6F\x6E\x27\x74\x20\x66\x6F\x72\x67\x65\x74\x20\x74\x6F\x20\x62\x72\x69\x6E\x67\x20\x61\x6E\x20\x75\x6D\x62\x72\x65\x6C\x6C\x61","\x68\x74\x6D\x6C","\x68\x33","\x54\x68\x65\x72\x65\x27\x73\x20\x6E\x6F\x20\x6E\x65\x65\x64\x20\x66\x6F\x72\x20\x61\x6E\x20\x75\x6D\x62\x72\x65\x6C\x6C\x61\x20\x74\x6F\x64\x61\x79\x2E\x20\x50\x6C\x65\x61\x73\x65\x2C\x20\x63\x68\x65\x63\x6B\x20\x61\x67\x69\x6E\x20\x74\x6F\x6D\x6F\x72\x72\x6F\x77\x2E","\x63\x6C\x69\x63\x6B","\x62\x75\x74\x74\x6F\x6E"];var umbrella=_0xe271[0];$(_0xe271[8])[_0xe271[7]](function(){if($(_0xe271[2])[_0xe271[1]]()=== umbrella){$(_0xe271[5])[_0xe271[4]](_0xe271[3])}else {$(_0xe271[5])[_0xe271[4]](_0xe271[6])}})
